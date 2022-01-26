@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1643200596276.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "94791907",
+    "id" : "5D1BD74",
+    "lastKnownWriteTime" : 1643125721,
+    "last_content_update" : 1643125721,
+    "path" : "~/OneDrive - Grupo-exito.com/pc/Documentos/paquete_descriptiva/concatser/R/desc_continuos.R",
+    "project_path" : "R/desc_continuos.R",
+    "properties" : {
+        "cursorPosition" : "9,75",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

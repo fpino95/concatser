@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1643200590491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2380453101",
+    "id" : "C97B3E23",
+    "lastKnownWriteTime" : 1643125249,
+    "last_content_update" : 1643125249,
+    "path" : "~/OneDrive - Grupo-exito.com/pc/Documentos/paquete_descriptiva/concatser/R/desc_categoricos.R",
+    "project_path" : "R/desc_categoricos.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

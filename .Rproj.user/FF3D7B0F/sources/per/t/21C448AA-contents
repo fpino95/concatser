@@ -1,0 +1,27 @@
+Package: concatser
+Type: Package
+Title: Analisis descriptivo para distintos tipos de datos
+Version: 1.3
+Author: Fabian Pino 
+Maintainer: Fabian Pino <fpino@grupo-exito.com>
+Description: Este paquete permite realizar el analisis descriptivo a una serie de tiempo y a un dataframe con un par de variables continuas (x vs y). Para la serie de tiempo se muestra:
+    - Grafico de la serie
+    - Tendencia
+    - Media
+    - Cuartiles
+    - Prueba de normalidad
+    - Prueba ruido blanco
+    - Grafico distribucion de los datos
+    Para el comparativo de variables continuas se muestra:
+    - Grafico x vs y
+    - Regresion lineal y ~ x
+    - Media
+    - Cuartiles
+    - Prueba de normalidad a cada variable
+    - Grafico de distribucion de cada variable
+    En la version 1.2 se agrega el descriptivo para variables categoricas, alli se muestra un grafico resumen por cada variable categorica ingresada.
+    Se usan las librerias: "dplyr" (0.8.3), "plotly" (4.9.2) y "sarima" (0.8.5).
+License: R (>= 3.6.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1643200600838.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2184771689",
+    "id" : "3AE72BED",
+    "lastKnownWriteTime" : 1643129967,
+    "last_content_update" : 1643129967,
+    "path" : "~/OneDrive - Grupo-exito.com/pc/Documentos/paquete_descriptiva/concatser/R/descriptiva_serie.R",
+    "project_path" : "R/descriptiva_serie.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
